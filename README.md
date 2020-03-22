@@ -7,7 +7,7 @@ Raw data display a exponential growth:
 原始数据为指数增长：  
 ![](Out_Data/linear_au_2020_03_22.png)  
 
-Data shows a linear growth under logarithmic scale. The model prediction and updating is below:
+Data shows a linear growth under logarithmic scale. The model prediction and updating is below:  
 数据在对数坐标下为直线增长。模型预测与更新如下图:  
 ![](Out_Data/log_kf_au_2020_03_22.png)  
 Linear regression model were trained using data during Mar 8-15. KF updating started from Mar 14.  
