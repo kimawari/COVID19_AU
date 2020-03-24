@@ -2,8 +2,8 @@
 A simple linear regreesion model to predict the early growth of Australian corona virus cases. Update daily using Kalman filter (KF) data assimialtion technique.  
 一个简单的线性回归模型预测澳洲初期新冠感染数。使用卡尔曼滤波方法融合每日更新数据以更新模型。  
 
-Latest update on 24/3/2012. Predicted infected number by the end of today: 2024.  
-最近更新于2020年3月24日。预计今日感染人数：2024。  
+Latest update on 24/3/2012. Predicted infected number by the end of today: 2040.  
+最近更新于2020年3月24日。预计今日感染人数：2040。  
 
 Raw data display a exponential growth:  
 原始数据为指数增长:  
