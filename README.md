@@ -1,6 +1,14 @@
 # COVID19_AU
+
+Data source: https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Australia.  
+The growth is clearly flatenning and will no longer fit the exponential curve, so I think the goverment's measures on controlling the virus spread is now working.  
+政府措施生效，增长放缓，将不再符合指数增长模式。  
+The webpage above is keep changing the table format everyday. It is too stupid to crawl a table that can only be used once, so this repository is no longer updated since 27/3/2020.  
+数据来源网页格式变动频繁，2020年3月27日起不再更新。  
+
 A simple linear regreesion model to predict the early growth of Australian corona virus cases. Update daily using Kalman filter (KF) data assimialtion technique.  
 一个简单的线性回归模型预测澳洲初期新冠感染数。使用卡尔曼滤波方法融合每日更新数据以更新模型。  
+
 
 Latest update on 26/3/2012. The growth in Vic is slower.  
 最近更新于2020年3月26日。维州增速放缓。  
